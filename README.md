@@ -16,3 +16,5 @@
 6. Run IDM
 
 7. Open IDM.exe to ensure it's working correctly.
+
+    ![image](https://github.com/user-attachments/assets/2cd91876-a220-437a-ade6-212cc9fa960b)
